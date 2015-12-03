@@ -11,7 +11,10 @@ var CACHE_FILES = [
     'images/5.png',
     'js/app.js',
     'css/main.css',
-    'css/bootstrap.css'
+    'css/bootstrap.css',
+	'css/bootstrap.css.map',
+	'css/bootstrap-theme.css',
+	'css/bootstrap-theme.css.map'
 ];
 
 
